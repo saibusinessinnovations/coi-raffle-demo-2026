@@ -1,0 +1,11 @@
+{
+  "name":"2026 COO Raffle Demo",
+  "short_name":"Raffle Demo",
+  "description":"Interactive demonstration of the 2026 COO Celebration of Impact Raffle.",
+  "start_url":"./?view=verify",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#eef2f7",
+  "theme_color":"#071b3c",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
